@@ -1,3 +1,4 @@
+"use client";
 import type { ServiceItem } from "@/template/types";
 import { useBasePath } from "@/template/ConfigProvider";
 import { getIcon } from "./icons";
